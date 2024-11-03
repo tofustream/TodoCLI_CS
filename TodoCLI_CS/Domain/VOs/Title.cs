@@ -1,6 +1,6 @@
 ﻿namespace TodoCLI_CS.Domain.VOs
 {
-    internal class Title
+    public class Title
     {
         private readonly string _value;
 
