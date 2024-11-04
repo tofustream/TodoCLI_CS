@@ -8,7 +8,7 @@ namespace TodoCLI_CS.Domain.VOs
 {
     public class Description
     {
-        private string _value;
+        private readonly string _value;
 
         public Description(string value)
         {
